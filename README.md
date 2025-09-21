@@ -171,12 +171,29 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is open source and available under the [MIT License](LICENSE).
 
+## 📚 Learning Journey
+
+This project was developed as part of my data science learning journey, following the comprehensive tutorial series by **CampusX**. The implementation demonstrates my ability to:
+
+- Follow complex machine learning workflows
+- Adapt and implement industry-standard practices
+- Apply theoretical concepts to real-world projects
+- Build end-to-end ML solutions from data preprocessing to deployment
+
+_Learning from established educational platforms like CampusX has helped me build a strong foundation in data science and machine learning best practices._
+
 ## 👨‍💻 Author
 
 **Rushi Patel**
 
 - GitHub: [@rpatel0022](https://github.com/rpatel0022)
 - LinkedIn: [Connect with me](https://linkedin.com/in/your-profile)
+
+## 🙏 Acknowledgments
+
+- **CampusX** for providing excellent data science education and tutorials
+- **The Movie Database (TMDb)** for the comprehensive movie dataset
+- **Kaggle** for hosting and providing easy access to the dataset
 
 ---
 
