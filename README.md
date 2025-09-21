@@ -17,6 +17,12 @@ This project implements a **content-based movie recommendation system** that ana
 - **Interactive Interface**: Deployed web application for real-time recommendations
 - **Comprehensive Dataset**: Processes 5,000+ movies with rich metadata
 
+## 🖼️ Demo
+
+![Movie Recommender Demo](movie_recommender_demo.png)
+
+_Interactive web interface showing movie recommendations based on user selection. The system displays similar movies with movie posters and titles for an enhanced user experience._
+
 ## 🛠️ Technologies Used
 
 ### **Programming Language**
